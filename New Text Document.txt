@@ -1,0 +1,3 @@
+l1=['Tejukasula','RVR','cse']
+l1.sort()
+print(l1)
